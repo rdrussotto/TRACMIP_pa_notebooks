@@ -1,7 +1,10 @@
 # TRACMIP_pa_notebooks
-Jupyter notebooks used to analyze polar amplification in TRACMIP model output.
+Jupyter notebooks used to analyze polar amplification in the [TRACMIP](https://sites.google.com/site/tracmip/) multi-model ensemble.
 
-Model output or regridding scripts not included. 
+This code is for a paper by Rick Russotto and Michela Biasutti submitted to Geophysical Research Letters in December 2019. 
+Notebooks will be uploaded to Zenodo upon acceptance of the paper. 
+
+
 
 
 ### Notebooks used to make each figure: 
@@ -38,7 +41,7 @@ MonthlyKernels.ipynb
 
 MonthlyKernels_CloudLW.ipynb
 
-#### Miscellaneous
+#### Miscellaneous:
 
 voigtColors.py
 
