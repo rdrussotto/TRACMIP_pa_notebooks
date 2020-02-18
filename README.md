@@ -1,7 +1,8 @@
 # TRACMIP_pa_notebooks
 Jupyter notebooks used to analyze polar amplification in the [TRACMIP](https://sites.google.com/site/tracmip/) multi-model ensemble.
 
-This code is for a paper by Rick Russotto and Michela Biasutti submitted to Geophysical Research Letters in December 2019. 
+This code is for a paper by Rick Russotto and Michela Biasutti submitted to Geophysical Research Letters in December 2019.
+Revision submitted in February 2020.
 Notebooks will be uploaded to Zenodo upon acceptance of the paper. 
 
 
@@ -10,13 +11,13 @@ Notebooks will be uploaded to Zenodo upon acceptance of the paper.
 ### Notebooks used to make each figure: 
 Figure 1: EBM_Gregory_analyze.ipynb
 
-Figure 2: AnalyzeGregoryFeedbacks_v2.ipynb
+Figure 2, S2: AnalyzeGregoryFeedbacks_v2.ipynb
 
-Figure 3, S3: EBM_Gregory_analyze_part3.ipynb
+Figure 3, S3, S8: EBM_Gregory_analyze_part3.ipynb
 
-Figure 4, S4: EBM_BigScatter_TropicsPoles.ipynb
+Figure 4, S4, S5, S9: EBM_BigScatter_TropicsPoles.ipynb
 
-Figure S1, S2: SupplementFigures.ipynb
+Figure S5, S6: SupplementFigures.ipynb
 
 
 
