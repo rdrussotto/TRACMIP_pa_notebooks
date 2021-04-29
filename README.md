@@ -1,10 +1,9 @@
 # TRACMIP_pa_notebooks
 Jupyter notebooks used to analyze polar amplification in the [TRACMIP](https://sites.google.com/site/tracmip/) multi-model ensemble.
 
-This code is for a paper by Rick Russotto and Michela Biasutti submitted to Geophysical Research Letters in December 2019.
-Revision submitted in February 2020.
-Notebooks will be uploaded to Zenodo upon acceptance of the paper. 
+This code is for a paper by Rick Russotto and Michela Biasutti published in Geophysical Research Letters in 2020: https://doi.org/10.1029/2019GL086771
 
+Notebooks are now permanently archived on Zenodo, accessible here: https://doi.org/10.5281/zenodo.3711669
 
 
 
