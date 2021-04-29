@@ -3,6 +3,8 @@ Jupyter notebooks used to analyze polar amplification in the [TRACMIP](https://s
 
 This code is for a paper by Rick Russotto and Michela Biasutti published in Geophysical Research Letters in 2020: https://doi.org/10.1029/2019GL086771
 
+Paper title: Polar Amplification as an Inherent Response of a Circulating Atmosphere: Results From the TRACMIP Aquaplanets
+
 Notebooks are now permanently archived on Zenodo, accessible here: https://doi.org/10.5281/zenodo.3711669
 
 
